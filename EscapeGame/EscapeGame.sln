@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeGame", "EscapeGame.csproj", "{0114E472-250B-4711-8FEF-318692C6193F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeLibrary", "..\EscapeLibrary\EscapeLibrary.csproj", "{EACD09D2-F6EE-4F30-9CCB-78AEDF66EAB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0114E472-250B-4711-8FEF-318692C6193F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0114E472-250B-4711-8FEF-318692C6193F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0114E472-250B-4711-8FEF-318692C6193F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0114E472-250B-4711-8FEF-318692C6193F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EACD09D2-F6EE-4F30-9CCB-78AEDF66EAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACD09D2-F6EE-4F30-9CCB-78AEDF66EAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACD09D2-F6EE-4F30-9CCB-78AEDF66EAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACD09D2-F6EE-4F30-9CCB-78AEDF66EAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {118FE38C-23A6-49A1-9918-99A4F9ED6AF9}
+	EndGlobalSection
+EndGlobal
